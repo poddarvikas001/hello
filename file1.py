@@ -1,3 +1,5 @@
 print("hello project")
-for - in range(101):
+for _ in range(101):
   print("hello friends")
+def function():
+	return 'I do nothing'
